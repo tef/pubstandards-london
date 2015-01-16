@@ -3,4 +3,6 @@ south==0.8.2
 python-dateutil==1.5
 django-ical==1.2
 gunicorn==18.0
+dj-database-url==0.3.0
+psycopg2==2.5.4
 -e git+https://github.com/benthor/inflect.py#egg=inflect
